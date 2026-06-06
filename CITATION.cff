@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or generated outputs, please cite this archived release."
+title: "Accommodation Trap: Code and Simulation Outputs for an Attractor Model of Plasticity-Driven Persistence in Delusion-Like Fixation"
+type: software
+authors:
+  - family-names: Joghatayi
+    given-names: Muhammed
+version: 1.0.0
+date-released: 2026-06-06
+repository-code: "https://github.com/MuhammedJoghatayi/accommodation-trap"
+license: MIT
+doi: "10.5281/zenodo.XXXXXXX"
