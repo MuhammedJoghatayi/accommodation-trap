@@ -160,7 +160,7 @@ Every analysis uses deterministic seeds via `np.random.RandomState(seed)`. Bit-f
 If you use this code or generated outputs, please cite the archived Zenodo release:
 
 ```http
-[Zenodo DOI to be added]
+[![DOI](https://zenodo.org/badge/1261475707.svg)](https://doi.org/10.5281/zenodo.20573655)
 ```
 
 A `CITATION.cff` file is included for citation metadata.
